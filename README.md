@@ -21,7 +21,7 @@
   - Linkdə verilən şablonun UI hissəsinin reallaşdırılması [Link](https://www.figma.com/file/EWmzcVkd7qbP5Nf7iMvuqP/Trafalgar-Landing-Page?node-id=0%3A1)
     - BEM standartları tətbiq olunacaq
     - SASS vasitəsi ilə yazılacaq
-    - Responsivlik nəzərə alınmalı
+    - Responsivlik nəzərə alınmalıdır
 - Research
   - [BEM](https://www.slideshare.net/RolandLsslein/bem-css-seriously)
   - [SASS Folder Structure](#)
