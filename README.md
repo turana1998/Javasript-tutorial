@@ -21,7 +21,7 @@
   - Linkdə verilən şablonun UI hissəsinin reallaşdırılması [Link](https://www.figma.com/file/EWmzcVkd7qbP5Nf7iMvuqP/Trafalgar-Landing-Page?node-id=0%3A1)
     - BEM standartları tətbiq olunacaq
     - SASS vasitəsi ilə yazılacaq
-    - Responsivlik nəzərə alınmaya bilər
+    - Responsivlik nəzərə alınmalı
 - Research
   - [BEM](https://www.slideshare.net/RolandLsslein/bem-css-seriously)
   - [SASS Folder Structure](#)
@@ -35,6 +35,6 @@
   - Local
   - Global
   - Block
-  1. Linkdə verilən demo app hazırlanmalıdır [Link](https://iamcodefoxx.github.io/Sticky-Notes/)
-    - Research
+   - Linkdə verilən demo app hazırlanmalıdır [Link](https://iamcodefoxx.github.io/Sticky-Notes/)
+     - Research
       - Fundamental JS [Link](https://javascript.info/first-steps)
