@@ -18,18 +18,18 @@
 //     }
 // }
 // Foo(1,2,6,7,4);
-let salary=[2,4,12,56,4,6];
+// let salary=[2,4,12,56,4,6];
 
-function Filter(arr,func){
-    let sum=0;
-    for(let i=0;i<arr.length;i++){
-        if(func(arr[i])){
-            sum+=arr[i];
-        }
-    }
-    console.log(sum);
-}
-Filter(salary,x=>x>55);
+// function Filter(arr,func){
+//     let sum=0;
+//     for(let i=0;i<arr.length;i++){
+//         if(func(arr[i])){
+//             sum+=arr[i];
+//         }
+//     }
+//     console.log(sum);
+// }
+// Filter(salary,x=>x>55);
 // function Sum(person){
 //    let sum=0;
 //    for(let i=0;i<person.length;i++){
@@ -49,3 +49,26 @@ Filter(salary,x=>x>55);
 
 // Sum(salary)
 // MaxSum(salary)
+
+
+// let names=["Elnare","Turane","tural","azer"];
+
+// function FilterArr(arr,char){
+//     let newarr=[];
+//     for(let i in arr){
+//         if(arr[i].includes(char))
+//         {
+//             newarr.push(arr[i]);
+//         }
+      
+//     }
+//     console.log(newarr)
+
+// }
+// function Foo(){
+
+// }
+// FilterArr(names,"t");
+
+
+console.log(Math.pow())

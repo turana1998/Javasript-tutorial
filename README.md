@@ -38,3 +38,11 @@
    - Linkdə verilən demo app hazırlanmalıdır [Link](https://iamcodefoxx.github.io/Sticky-Notes/)
      - Research
       - Fundamental JS [Link](https://javascript.info/first-steps)
+
+- JavaScript Type Conversion
+  - [Link](https://javascript.info/type-conversions)
+  - Suallar
+    - 1. Write a JavaScript function to capitalize the first letter of a string (elnara-Elnara)
+    - 2. Find words count in sentences (This is example - 3)
+    - 3. Delete words with "a" in arrar (["ananas","test","bird"] -["test","bird"] )
+
