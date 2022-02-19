@@ -50,7 +50,6 @@
 // Sum(salary)
 // MaxSum(salary)
 
-
 // let names=["Elnare","Turane","tural","azer"];
 
 // function FilterArr(arr,char){
@@ -60,7 +59,7 @@
 //         {
 //             newarr.push(arr[i]);
 //         }
-      
+
 //     }
 //     console.log(newarr)
 
@@ -70,5 +69,4 @@
 // }
 // FilterArr(names,"t");
 
-
-console.log(Math.pow())
+console.log(Math.pow());
